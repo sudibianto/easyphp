@@ -1,0 +1,4 @@
+2018-07-25 19:42:06 0 [Note] Reading of all Master_info entries succeded
+2018-07-25 19:42:06 0 [Note] Added new Master_info '' to hash table
+2018-07-25 19:42:06 0 [Note] D:\htdocs\eds-binaries\dbserver\mariadb1038x86x180724190007\bin\eds-dbserver.exe: ready for connections.
+Version: '10.3.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

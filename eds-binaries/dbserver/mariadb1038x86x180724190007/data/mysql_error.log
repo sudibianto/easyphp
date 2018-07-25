@@ -1,0 +1,17 @@
+2018-07-25 19:42:05 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-07-25 19:42:05 0 [Note] InnoDB: Uses event mutexes
+2018-07-25 19:42:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-25 19:42:05 0 [Note] InnoDB: Number of pools: 1
+2018-07-25 19:42:05 0 [Note] InnoDB: Using generic crc32 instructions
+2018-07-25 19:42:05 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2018-07-25 19:42:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-25 19:42:05 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2018-07-25 19:42:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2018-07-25 19:42:05 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2018-07-25 19:42:05 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2018-07-25 19:42:05 0 [Note] InnoDB: Waiting for purge to start
+2018-07-25 19:42:05 0 [Note] InnoDB: 10.3.8 started; log sequence number 1630815; transaction id 21
+2018-07-25 19:42:05 0 [Note] InnoDB: Loading buffer pool(s) from D:\htdocs\eds-binaries\dbserver\mariadb1038x86x180724190007\data\ib_buffer_pool
+2018-07-25 19:42:05 0 [Note] InnoDB: Buffer pool(s) load completed at 180725 19:42:05
+2018-07-25 19:42:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2018-07-25 19:42:05 0 [Note] Server socket created on IP: '127.0.0.1'.
